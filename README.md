@@ -18,7 +18,7 @@ Project in C# of a Visual Novel (game with decisions that affect the ending). As
 
 
 Title Screen Flower Background:
-	red and white flowers: Jacalyn Beales
+	red and white flowers – Jacalyn Beales
 	https://unsplash.com/photos/KDg6MX6Wszs
 
 Game Backgrounds:
