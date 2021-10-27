@@ -6,7 +6,7 @@ Projeto em C# de uma Visual Novel (jogo com decisões que afetam o final). Como 
 Project in C# of a Visual Novel (game with decisions that affect the ending). As it is only a prototype, the story is not well defined and has some bugs. Project started in September 2021.
 
 
---- CREDITS ---
+	--- CREDITS ---
 
 
 Title Screen Flower Background:
@@ -34,4 +34,4 @@ Music:
 
 
 
---- SCREENSHOTS ---
+	--- SCREENSHOTS ---
