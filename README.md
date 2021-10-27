@@ -6,6 +6,14 @@ Projeto em C# de uma Visual Novel (jogo com decisões que afetam o final). Como 
 Project in C# of a Visual Novel (game with decisions that affect the ending). As it is only a prototype, the story is not well defined and has some bugs. Project started in September 2021.
 
 
+	--- SCREENSHOTS ---
+	
+![image](https://user-images.githubusercontent.com/93265472/139125649-69ea43ff-6b92-406a-8022-e17e2121f61f.png)
+![image](https://user-images.githubusercontent.com/93265472/139125808-58b84e66-fe29-446e-b339-75ad4069cce6.png)
+![image](https://user-images.githubusercontent.com/93265472/139125886-4479fcd8-ac55-4083-9a1a-238d29441601.png)
+
+
+
 	--- CREDITS ---
 
 
@@ -32,6 +40,3 @@ Music:
 	https://www.youtube.com/c/KeysofMoonMusic
 	Music promoted by BreakingCopyright: https://youtu.be/p5cWMxzzMdA 
 
-
-
-	--- SCREENSHOTS ---
