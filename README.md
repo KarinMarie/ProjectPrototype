@@ -1,5 +1,5 @@
 # ProjectPrototype
-	|||   VERSÃO ATUAL/CURRENT VERSION: v0.4-alpha   |||
+	|||   VERSÃO ATUAL/CURRENT VERSION: v0.5-alpha   |||
 
 Projeto em C# de uma Visual Novel (jogo com decisões que afetam o final). Como é apenas um protótipo, a história não é bem definida e possui alguns bugs. Projeto iniciado em setembro de 2021.
 
